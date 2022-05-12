@@ -3,7 +3,7 @@
 ## 👋 Olá, eu sou Matheus Marinho 
 
 - 🔭 Estou estudando desenvolvimento Front End
-- :globe_with_meridians: Conhecimento de inglês intermediário
+- :globe_with_meridians: Inglês intermediário
 
  - Amo a área de desenvolvimento web e a cada dia que passa procuro me desenvolver e aprender mais.
 
