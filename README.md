@@ -6,6 +6,8 @@
 - :globe_with_meridians: Inglês intermediário
 
  - Amo a área de desenvolvimento web e a cada dia que passa procuro me desenvolver e aprender mais.
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusmfeitoza&label=Profile%20views&color=ff00d0&style=flat" alt="emilyjuly" /> </p>
 
 
 ## Tenho conhecimento / estou aprendendo. 
