@@ -21,8 +21,6 @@
 </div>
 <div><br/>
  <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- <img alt="Java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=orangered">
  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div><br/>
 
