@@ -40,3 +40,5 @@
   <img alt="Windows" src="https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows&logoColor=blue"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div> <br/>
+
+![Rank langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmfeitoza&hide=TeX&layout=compact)
