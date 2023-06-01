@@ -27,7 +27,6 @@
 ### Bancos de Dados
 <div><br/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Amazon" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div> <br/>
 
